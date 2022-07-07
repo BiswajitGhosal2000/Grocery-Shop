@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background: radial-gradient(green,blue,yellow);
 }
 a.link{
     color: red;
