@@ -7,3 +7,19 @@ a.link{
 a:hover{
     color: white;
 }
+.one{
+    height:250px;
+    width:250px;
+    background-color:yellow;
+    position: absolute; 
+    left:50px;
+    top:100px;
+}
+.two{
+    height:250px;
+    width:250px;
+    background-color:blue;
+    position: relative; 
+    left:50px;
+    top:100px;
+}
